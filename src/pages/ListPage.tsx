@@ -7,7 +7,7 @@ const ListPage = () => {
 
   return (
     <div className="py-3">
-      <h1>List Of Short Urls</h1>
+      <h1>List Of Shorted Urls</h1>
       <div className="table-responsive">
         <table className="table table-striped">
           <thead>

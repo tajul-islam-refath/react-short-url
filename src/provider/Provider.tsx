@@ -15,13 +15,11 @@ const Provider = ({ children }: any) => {
   //   const savedState = localStorage.getItem("shortUrls");
   //   if (savedState) {
   //     dispatch({ type: "SET_STATE", payload: JSON.parse(savedState) });
-  //     console.log("add data", savedState);
   //   }
   // }, []);
 
   useEffect(() => {
     localStorage.setItem("shortUrls", JSON.stringify(state));
-    console.log("remove data", state);
   }, [state]);
 
   return (
