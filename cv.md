@@ -13,9 +13,16 @@
 ## Experience
 ### FRONT-END DEVELOPER
 #### Daffodil Computers Ltd. (Aug 2022 - Present)
-- Created Angular components.
-- Communicated with the server using REST API.
-- Managed authentication and authorization.
+- Collaborate with designer and project managers to ensure accurate translation of Figma designs and functional 
+  requirements into a functional client-side application
+- Collaborate with backend developer to integrate REST APIs to enable seamless communication between
+   the client-side and server side of the application
+- Utilize best practices, Lazy-loading, and Form validation to improve website optimization and security
+- Contribute to the development of an Integrated University Management System, develop admin, student,teacher dashboard to 
+  manage students, admission, student result, etc.
+- Develop an Hr dashboard using Angular, designed to provide efficient and user-friendly access to manage employees.
+
+
 
 
 ## Projects
